@@ -44,8 +44,7 @@ namespace Regi
                         {
                             Console.WriteLine("Unknown, type /regi");
                             break;
-
-                        
+                      
                         }
 
                 }
